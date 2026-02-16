@@ -6,7 +6,7 @@ export function WhatsAppButton() {
       href="https://chat.whatsapp.com/REPLACE_WITH_YOUR_GROUP_LINK"
       target="_blank"
       rel="noopener noreferrer"
-      className="animate-pulse-glow group relative inline-flex w-full items-center justify-center gap-3 rounded-lg bg-whatsapp px-8 py-5 text-lg font-bold text-whatsapp-foreground transition-all duration-300 hover:brightness-110 focus-visible:ring-2 focus-visible:ring-whatsapp focus-visible:ring-offset-2 focus-visible:ring-offset-background focus-visible:outline-none md:text-xl"
+      className="animate-pulse-glow group relative inline-flex w-full items-center justify-center gap-3 rounded-xl bg-[#25D366] px-8 py-5 text-lg font-bold text-white transition-all duration-300 hover:bg-[#22c55e] focus-visible:ring-2 focus-visible:ring-[#25D366] focus-visible:ring-offset-2 focus-visible:ring-offset-background focus-visible:outline-none md:py-6 md:text-xl"
       aria-label="Unirse al Grupo VIP de WhatsApp"
     >
       <WhatsAppIcon />
