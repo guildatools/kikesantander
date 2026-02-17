@@ -1,8 +1,11 @@
 {
-  "name": "my-v0-project",
+  "name": "kikesantander",
   "version": "0.1.0",
   "private": true,
+  "description": "Project repository for kikesantander",
   "scripts": {
     "build": "echo 'no build script'"
-  }
+  },
+  "keywords": [],
+  "author": "guildatools"
 }
