@@ -54,7 +54,7 @@ export default function InscripcionPage() {
             </p>
             <p className="text-sm text-white/90">Haz clic en el botón de abajo y regístrate gratis:</p>
             <a
-              href="https://devzapp.com.br/#/dev-zap-grupos/6980adb0a03e8f0001e2eec3"
+              href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white text-base px-8 py-5 rounded-xl shadow-xl transition-all font-medium w-full"
@@ -105,7 +105,7 @@ export default function InscripcionPage() {
                   size="lg"
                   className="bg-primary hover:bg-primary/90 text-white text-lg px-8 py-6 rounded-xl shadow-xl hover:shadow-2xl transition-all"
                 >
-                  <a href="https://devzapp.com.br/#/dev-zap-grupos/6980adb0a03e8f0001e2eec3" target="_blank" rel="noopener noreferrer">
+                  <a href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM" target="_blank" rel="noopener noreferrer">
                     QUIERO APRENDER
                   </a>
                 </Button>
@@ -237,7 +237,7 @@ export default function InscripcionPage() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-white text-lg px-8 py-6 rounded-xl shadow-xl hover:shadow-2xl transition-all"
             >
-              <a href="https://devzapp.com.br/#/dev-zap-grupos/6980adb0a03e8f0001e2eec3" target="_blank" rel="noopener noreferrer">
+              <a href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM" target="_blank" rel="noopener noreferrer">
                 QUIERO PARTICIPAR
               </a>
             </Button>

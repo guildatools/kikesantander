@@ -646,7 +646,7 @@ export default function CursoPage() {
                 Inscríbete Ahora
               </a>
               <a
-                href="https://devzapp.com.br/api-engennier/campanha/api/redirect/6980adb0a03e8f0001e2eec3"
+                href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center border-2 border-white text-white hover:bg-white hover:text-purple-900 font-bold text-xl px-12 py-5 rounded-xl transition-all"

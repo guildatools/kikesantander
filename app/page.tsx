@@ -54,7 +54,7 @@ export default function KikeSantanderLP() {
             </p>
             <p className="text-sm text-white/90">Haz clic en el botón de abajo y regístrate gratis:</p>
             <a
-              href="https://devzapp.com.br/#/dev-zap-grupos/6980adb0a03e8f0001e2eec3"
+              href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white text-base px-8 py-5 rounded-xl shadow-xl transition-all font-medium w-full"
@@ -101,7 +101,7 @@ export default function KikeSantanderLP() {
               <div className="space-y-4 pt-4">
                 <p className="text-base text-white/90">Haz clic en el botón de abajo y regístrate gratis:</p>
                 <a
-                  href="https://devzapp.com.br/#/dev-zap-grupos/6980adb0a03e8f0001e2eec3"
+                  href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white text-lg px-8 py-6 rounded-xl shadow-xl hover:shadow-2xl transition-all font-medium"
@@ -232,7 +232,7 @@ export default function KikeSantanderLP() {
           <div className="mt-12 md:mt-16 text-center space-y-6">
             <p className="text-white/90 text-lg">Haz clic en el botón de abajo y regístrate gratis:</p>
             <a
-              href="https://devzapp.com.br/#/dev-zap-grupos/6980adb0a03e8f0001e2eec3"
+              href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white text-lg px-8 py-6 rounded-xl shadow-xl hover:shadow-2xl transition-all font-medium"

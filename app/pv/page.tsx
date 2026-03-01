@@ -631,7 +631,7 @@ function ContactSection() {
           WhatsApp:
         </p>
         <a 
-          href="https://devzapp.com.br/api-engennier/campanha/api/redirect/6980adb0a03e8f0001e2eec3" 
+          href="https://chat.whatsapp.com/LqP2BGm7NbRCJM08PVO4TM" 
           target="_blank" 
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center border border-primary text-primary hover:bg-primary hover:text-white text-lg px-8 py-6 rounded-xl transition-all font-medium"
