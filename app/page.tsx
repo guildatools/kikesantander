@@ -62,7 +62,7 @@ export default function KikeSantanderLP() {
               QUIERO APRENDER
             </a>
             <p className="text-white/70 text-sm">
-              09 de Marzo a las 20h | <span className="text-accent">En vivo</span> | Online y gratuito
+              09 de Marzo a las 19h | <span className="text-accent">En vivo</span> | Online y gratuito
             </p>
           </div>
         </div>
@@ -112,7 +112,7 @@ export default function KikeSantanderLP() {
 
               <div className="pt-4">
                 <p className="text-white/70 text-base">
-                  09 de Marzo a las 20h | <span className="text-accent">En vivo</span> | Online y gratuito
+                  09 de Marzo a las 19h | <span className="text-accent">En vivo</span> | Online y gratuito
                 </p>
               </div>
             </div>
@@ -241,7 +241,7 @@ export default function KikeSantanderLP() {
             </a>
             <div className="pt-4">
               <p className="text-white/70 text-base">
-                09 de Marzo a las 20h | <span className="text-accent">En vivo</span> | Online y gratuito
+                09 de Marzo a las 19h | <span className="text-accent">En vivo</span> | Online y gratuito
               </p>
             </div>
           </div>
